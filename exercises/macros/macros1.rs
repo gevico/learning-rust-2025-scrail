@@ -11,5 +11,5 @@ macro_rules! my_macro {
 }
 
 fn main() {
-    my_macro1();
+    my_macro!();
 }
